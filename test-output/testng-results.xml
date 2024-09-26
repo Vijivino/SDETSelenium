@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-25T10:26:59 CDT" name="Suite" finished-at="2024-09-25T10:27:11 CDT" duration-ms="11070">
+    <groups>
+    </groups>
+    <test started-at="2024-09-25T10:26:59 CDT" name="Test" finished-at="2024-09-25T10:27:11 CDT" duration-ms="11070">
+      <class name="com.Grid.loginSample">
+        <test-method is-config="true" signature="launch(java.lang.String)[pri:0, instance:com.Grid.loginSample@712625fd]" started-at="2024-09-25T10:26:59 CDT" name="launch" finished-at="2024-09-25T10:27:06 CDT" duration-ms="6756" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="login()[pri:0, instance:com.Grid.loginSample@712625fd]" started-at="2024-09-25T10:27:06 CDT" name="login" finished-at="2024-09-25T10:27:10 CDT" duration-ms="3635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.Grid.loginSample@712625fd]" started-at="2024-09-25T10:27:10 CDT" name="close" finished-at="2024-09-25T10:27:11 CDT" duration-ms="644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.Grid.loginSample -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
